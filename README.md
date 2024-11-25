@@ -2,5 +2,5 @@
 
 A project that stitches together several datasets of a fictional toy store chain.
 
-Tableau Dashbooard:
+Tableau Dashboard:
 https://public.tableau.com/app/profile/kyle.zhou/viz/MavenToys_17258582366480/Dashboard1
